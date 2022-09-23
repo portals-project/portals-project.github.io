@@ -18,12 +18,11 @@
       <div class="row justify-content-center">
         <div class="col-xl-8 col-lg-9 col-md-11 col-xs-12 align-self-center maindiv">
           <nav>
-            <a class="navbar-brand" href="/">Portals-Project</a>
+            <a class="navbar-brand" href="/"><img style="width:150px" src="/assets/logo/portals.png" alt="Portals"/> </a>
             <ul>
               <li {% if "/" == page.url %}class="active"{% endif %}><a href="/">Home</a></li>
-              <li {% if "/tutorial" == page.url %}class="active"{% endif %}><a href="/tutorial">Tutorial</a></li>
               <li {% if "/preprint" == page.url %}class="active"{% endif %}><a href="/preprint">Preprint</a></li>
-              <li {% if "/people" == page.url %}class="active"{% endif %}><a href="/people">People</a></li>
+              <li {% if "/team" == page.url %}class="active"{% endif %}><a href="/team">Team</a></li>
               <li {% if page.url contains "/blog/" %}class="active"{% endif %}><a href="/blog/">Blog</a></li>
             </ul>
           </nav>
@@ -31,7 +30,7 @@
             {{ content }}
           </div>
           <footer>
-            © Portals-Project, 2022.
+            © Jonas Spenger, 2022.
             <a href="https://github.com/portals-project" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a>
           </footer>
         </div>
