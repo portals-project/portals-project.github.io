@@ -10,13 +10,13 @@ Portals is an extension of *Dataflow Streaming* for *Stateful Serverless*.
 ## Highlights
 Portals is designed for complex stateful serverless applications. 
 
-#### Stateful Serverless 
+#### Fully-Automated, Stateful Serverless 
 Portals fully-automates the hard things with distributed applications.
 * &#10004; Reliability 
 * &#10004; Scalability 
 * &#10004; Execution 
 
-#### Extending Dataflow Streaming
+#### Expressive, Extending Dataflow Streaming
 Portals extends *Dataflow Streaming* to support common patterns in *Stateful Serverless*.
 * &#10004; Dynamic Communication Topology 
 * &#10004; Cyclic Dependencies 
