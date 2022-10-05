@@ -25,4 +25,4 @@ Portals extends *Dataflow Streaming* to support common patterns in *Stateful Ser
 * &#10004; Dataflow Composition
 
 #### Portals Programming Model
-The Portals programming model consists of *Atomic Streams*, *Workflows*, and *Portals*. To find out more about how everything fits together, check out the [Portals preprint](/preprint), or the project's [GitHub repository](https://github.com/portals-project).
+The Portals programming model consists of *Atomic Streams*, *Workflows*, and *Portals*. To find out more about how everything fits together, check out the [Talks & Papers](/talks-&-papers), or the project's [GitHub repository](https://github.com/portals-project).
