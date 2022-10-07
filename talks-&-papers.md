@@ -16,4 +16,10 @@ Thank you for your interest in our work. Here you can find a collection of our t
 
 * Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless)
 
+## Posters
+
+* Jonas Spenger. "Portals: Stateful Serverless Dataflow Streaming." *CASTOR Software Days*, 2022.
+* Jonas Spenger. "Privacy-Preserving Computing." *RISE Computer Science & AI open house*, 2022.
+
+## Funding
 *This work is/was partially funded by the Swedish Foundation for Strategic Research (SSF grant no. BD15-0006) and by Digital Futures.*

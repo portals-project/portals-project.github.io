@@ -14,4 +14,3 @@ title: Team
 ## Alumni
 * Chengyang Huang, Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology
 * Siyao Liu, Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology
-
