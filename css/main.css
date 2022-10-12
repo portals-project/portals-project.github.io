@@ -30,16 +30,21 @@ h1, h2, h3, nav {
   letter-spacing: 0.10rem;
 }
 
-h1, h2, h3, h4, h5, h6, strong, a {
+h1, h2, h3, h4, h5, h6, strong {
   /* color: #1b2b52; */
   color: #000000;
+  font-weight: bold;
+}
+
+footer > a {
   font-weight: bold;
 }
 
 a {
   text-decoration: none;
   /* color: #8860D0; */
-  color: #5900ff;
+  /* color: #5900ff; */
+  color: #0004ff;
 }
 
 a.navbar-brand, a:hover {
@@ -52,6 +57,7 @@ nav {
   border: solid #000000;
   border-width: 0 0 2px 0;
   margin-bottom: 0px;
+  font-weight: bold;
 }
 
 nav ul {
@@ -86,7 +92,8 @@ pre.highlight {
 div.meta {
   font-style: italic;
   /* color: #8860D0; */
-  color: #5900ff;
+  /* color: #5900ff; */
+  color: #000000;
 }
 
 div.youtube-container {

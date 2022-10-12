@@ -1,26 +1,30 @@
 ---
 layout: default
-title: Preprint
+title: Talks & Papers
 ---
 
 # Talks & Papers
 
 Thank you for your interest in our work. Here you can find a collection of our talks and papers.
 
-## Publications
+Check out a preprint of our most recent work to be published at Onward!'22: [Portals: An Extension of Dataflow Streaming for Stateful Serverless](...).
 
-* Spenger, Jonas, Paris Carbone, and Philipp Haller. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *Under Submission to Onward!*, 2022. [Link](...)
-* Spenger, Jonas, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); [Link](https://people.kth.se/~phaller/doc/spenger21-poly.pdf)
+## Publications
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *In Proceedings of the 2022 ACM SIGPLAN International Symposium on New
+Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22)*, 2022. [https://doi.org/10.1145/3563835.3567664](https://doi.org/10.1145/3563835.3567664); [PDF](...)
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); [PDF](https://people.kth.se/~phaller/doc/spenger21-poly.pdf)
 
 ## Talks
-
+* Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. [Video](https://www.youtube.com/watch?v=bzpQpm61o2c)
 * Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless)
-* Jonas Spenger. "Pods: Privacy compliant scalable decentralized data services." *Poly@VLDB21 workshop*, 2021. [Slides](https://drive.google.com/file/d/1-ZUn_sc9_Yny2xcnz4VZtLI_z75tA0El/view?usp=sharing)
+* Jonas Spenger. "Pods: Privacy compliant scalable decentralized data services." *VLDB Workshop: Poly'21*, 2021. [Slides](https://drive.google.com/file/d/1-ZUn_sc9_Yny2xcnz4VZtLI_z75tA0El/view?usp=sharing)
 
 ## Posters
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: Stateful Serverless Dataflow Streaming." *CASTOR Software Days*, 2022. [Poster](https://drive.google.com/file/d/13EiCixn75EsCtlKuKN8gGHXAprzuvXeX/view?usp=sharing)
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Privacy-Preserving Computing." *RISE Computer Science & AI open house*, 2022. [Poster](https://drive.google.com/file/d/1SRnO4vtdumzB2DeQWQ9JAlzFNKAmqUT1/view?usp=sharing)
 
-* Spenger, Jonas, Paris Carbone, and Philipp Haller. "Portals: Stateful Serverless Dataflow Streaming." *CASTOR Software Days*, 2022. [Poster](https://drive.google.com/file/d/13EiCixn75EsCtlKuKN8gGHXAprzuvXeX/view?usp=sharing)
-* Spenger, Jonas, Paris Carbone, and Philipp Haller. "Privacy-Preserving Computing." *RISE Computer Science & AI open house*, 2022. [Poster](https://drive.google.com/file/d/1SRnO4vtdumzB2DeQWQ9JAlzFNKAmqUT1/view?usp=sharing)
+## Github
+* [https://github.com/portals-project](https://github.com/portals-project)
 
 ## Funding
 *This work was partially funded by the Swedish Foundation for Strategic Research (SSF grant no. BD15-0006) and by Digital Futures.*
