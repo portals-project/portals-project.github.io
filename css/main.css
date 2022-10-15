@@ -1,8 +1,9 @@
 body {
-  line-height: 1.4rem;
+  line-height: 1.5rem;
   /* color: #373D3F; */
   color: #000000;
   font-family: source sans pro;
+  font-size: 1.0rem;
 }
 
 div.maindiv {
