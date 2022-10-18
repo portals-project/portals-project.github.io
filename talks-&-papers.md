@@ -7,11 +7,11 @@ title: Talks & Papers
 
 Thank you for your interest in our work. Here you can find a collection of our talks and papers.
 
-Check out a preprint of our most recent work to be published at Onward!'22: [Portals: An Extension of Dataflow Streaming for Stateful Serverless](https://kth-my.sharepoint.com/:b:/g/personal/jspenger_ug_kth_se/EZUXJnEz61NGuSU75GnkQPkBFeMMuhrnnawUanjcsSoU3A?e=Dk9lK0).
+Check out a preprint of our most recent work to be published at Onward!'22: [Portals: An Extension of Dataflow Streaming for Stateful Serverless](https://people.kth.se/~jspenger/pdfs/spenger2022portals.pdf).
 
 ## Publications
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *In Proceedings of the 2022 ACM SIGPLAN International Symposium on New
-Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22)*, 2022. [https://doi.org/10.1145/3563835.3567664](https://doi.org/10.1145/3563835.3567664); **[PDF](https://kth-my.sharepoint.com/:b:/g/personal/jspenger_ug_kth_se/EZUXJnEz61NGuSU75GnkQPkBFeMMuhrnnawUanjcsSoU3A?e=Dk9lK0)**
+Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22)*, 2022. [https://doi.org/10.1145/3563835.3567664](https://doi.org/10.1145/3563835.3567664); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger2022portals.pdf)**
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); **[PDF](https://people.kth.se/~phaller/doc/spenger21-poly.pdf)**
 
 ## Talks
