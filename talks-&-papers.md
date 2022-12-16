@@ -16,7 +16,7 @@ Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22
 
 ## Talks
 * Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. [Video](https://www.youtube.com/watch?v=bzpQpm61o2c)
-* Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless)
+* Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless) [Video](https://www.youtube.com/watch?v=M5Wv6Y8N2wM)
 * Jonas Spenger. "Pods: Privacy compliant scalable decentralized data services." *VLDB Workshop: Poly'21*, 2021. [Slides](https://drive.google.com/file/d/1-ZUn_sc9_Yny2xcnz4VZtLI_z75tA0El/view?usp=sharing)
 
 ## Posters
