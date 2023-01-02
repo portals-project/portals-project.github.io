@@ -13,7 +13,7 @@ title: Team
 
 ## MSc Students
 * Chengyang Huang, MSc Thesis 2023; Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology.
-* Aleksey Veresov, Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology.
+* Aleksey Veresov, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
 
 ## Alumni
 * Siyao Liu, Intern 2022. MSc Student, EECS, KTH Royal Institute of Technology
