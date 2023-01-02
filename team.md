@@ -11,6 +11,9 @@ title: Team
 * [Philipp Haller](https://www.kth.se/profile/phaller),
   Associate Professor, EECS, KTH Royal Institute of Technology.
 
+## MSc Students
+* Chengyang Huang, MSc Thesis 2023; Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology.
+* Aleksey Veresov, Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology.
+
 ## Alumni
-* Chengyang Huang, Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology
-* Siyao Liu, Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology
+* Siyao Liu, Intern 2022. MSc Student, EECS, KTH Royal Institute of Technology
