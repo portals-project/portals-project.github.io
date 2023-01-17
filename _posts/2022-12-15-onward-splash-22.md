@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portals at Onward!'22 / Splash'22 in Auckland
+title: Portals at Onward!'22 / Splash'22
 date: 2022-12-15
 author: Jonas Spenger
 tags: Onward!'22 Splash'22 Conference Portals
