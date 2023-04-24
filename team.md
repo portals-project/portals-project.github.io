@@ -12,6 +12,8 @@ title: Team
   Associate Professor, EECS, KTH Royal Institute of Technology.
 
 ## MSc Students
+* Gabriele Morello, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
+* Maxi Kurzawski, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
 * Chengyang Huang, MSc Thesis 2023; Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology.
 * Aleksey Veresov, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
 
