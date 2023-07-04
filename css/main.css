@@ -22,22 +22,33 @@ h3 {
   font-size: 1.25rem;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   font-size: 1.0rem;
 }
 
-h1, h2, h3, nav {
+h1,
+h2,
+h3,
+nav {
   font-family: open sans;
   letter-spacing: 0.10rem;
 }
 
-h1, h2, h3, h4, h5, h6, strong {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong {
   /* color: #1b2b52; */
   color: #000000;
   font-weight: bold;
 }
 
-footer > a {
+footer>a {
   font-weight: bold;
 }
 
@@ -48,7 +59,8 @@ a {
   color: #0004ff;
 }
 
-a.navbar-brand, a:hover {
+a.navbar-brand,
+a:hover {
   /* color: #1b2b52; */
   color: #000000;
 }
@@ -65,8 +77,7 @@ nav ul {
   padding: 0px;
 }
 
-nav ul li.active
-{
+nav ul li.active {
   text-decoration: underline;
 }
 
@@ -114,4 +125,8 @@ iframe.youtube-iframe {
 
 p.image {
   background-color: white
+}
+
+span.portals {
+  color: #0004ff;
 }
