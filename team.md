@@ -12,10 +12,10 @@ title: Team
   Associate Professor, EECS, KTH Royal Institute of Technology.
 
 ## MSc Students
-* Gabriele Morello, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
-* Maxi Kurzawski, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
-* Chengyang Huang, MSc Thesis 2023; Intern 2022, MSc Student, EECS, KTH Royal Institute of Technology.
-* Aleksey Veresov, Intern 2023, MSc Student, EECS, KTH Royal Institute of Technology.
+* Maxi Kurzawski, Summer Research Internsip 2023 (Digital Futures); Spring Internship 2023; MSc Student, EECS, KTH Royal Institute of Technology.
+* Gabriele Morello, Spring Internship 2023; MSc Student, EECS, KTH Royal Institute of Technology.
+* Aleksey Veresov, Research Student Assistant 2023; Summer Research Internship 2023 (Digital Futures); MSc Student, EECS, KTH Royal Institute of Technology.
+* Chengyang Huang, MSc Thesis 2023: [Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594); Summer Research Internship 2022; MSc Student, EECS, KTH Royal Institute of Technology.
 
 ## Alumni
-* Siyao Liu, Intern 2022. MSc Student, EECS, KTH Royal Institute of Technology
+* Siyao Liu, Summer Research Internship 2022; MSc Student, EECS, KTH Royal Institute of Technology.
