@@ -14,6 +14,9 @@ Check out a preprint of our most recent work to be published at Onward!'22: [Por
 Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22)*, 2022. [https://doi.org/10.1145/3563835.3567664](https://doi.org/10.1145/3563835.3567664); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger2022portals.pdf)**
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); **[PDF](https://people.kth.se/~phaller/doc/spenger21-poly.pdf)**
 
+## MSc Theses
+* Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
+
 ## Talks
 * Jonas Spenger. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *Splash '22: Onward! ’22*, 2022.
 * Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. [Video](https://www.youtube.com/watch?v=bzpQpm61o2c)
