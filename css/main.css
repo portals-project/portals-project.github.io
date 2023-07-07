@@ -130,3 +130,7 @@ p.image {
 span.portals {
   color: #0004ff;
 }
+
+div.highlight {
+  line-height: 1.0rem;
+}
