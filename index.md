@@ -7,7 +7,13 @@ title: Welcome to Portals
 
 # Welcome to *Portals*
 
-Find out more about what *Portals* is and how everything fits together with our [Talks & Papers](/talks-&-papers), or at the project's [GitHub repository](https://github.com/portals-project). Make sure to also try out our new [Playground](https://www.portals-project.org/playground/).
+Portals is a programming framework for stateful serverless applications. At its core, Portals unifies the Distributed Dataflow Streaming Model and the Actor Model, providing unparalleled flexibility and data-parallel processing capabilities with strong guarantees. The framework's programming model is tailored for edge stateful serverless processing, and provides the following key features:
+
+1. **Multi-Dataflow Applications.** Multiple stateful dataflow streaming pipelines can dynamically be composed together on top of atomic streams, a transactional type of data streams.
+2. **Inter-Dataflow Services.** The Portal abstraction binds dataflow pipelines together to create and expose reusable services. This enables a request-reply type of communication between pipelines by providing serverless access to remote operator states on top of a continuation-style execution.
+3. **Decentralized Cloud and Local Execution.** The decentralized runtime can be executed on, and across, cloud and edge devices, whilst still providing end-to-end exactly-once processing guarantees.
+
+Find out more about what *Portals* is and how everything fits together with our [Talks & Papers](/talks-&-papers), or at the project's [GitHub repository](https://github.com/portals-project). We also have an introductory [Tutorial](/tutorial) for the Portals framework. Make sure to also try out our new [Playground](https://www.portals-project.org/playground/) which runs in the browser. Find out more about the project's team [here](/team).
 
 ## News
 
