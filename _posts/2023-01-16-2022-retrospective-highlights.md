@@ -21,7 +21,7 @@ Portals started out of a research project we had previously called "Pods". The p
 </div>
 
 ## Workshops / Presentations / Posters
-We presented the work at various workshops / poster-sessions. This included the event at *CASTOR Software days*, and more (see [talks and posters](/talks-&-papers/)).
+We presented the work at various workshops / poster-sessions. This included the event at *CASTOR Software days*, and more (see [talks and posters](/talks-&-papers)).
 Here is a picture from the poster session at *CASTOR Software days*.
 
 <div class="row">
@@ -33,7 +33,7 @@ Here is a picture from the poster session at *CASTOR Software days*.
 </div>
 
 ## Onward'22
-Our work was accepted into Onward!'22 / Splash'22, and we got the chance to travel to Auckland, New Zealand, to present it ([see our trip blog post](/blog/onward-splash-22/)). The paper is now freely available on [ACM DL](https://doi.org/10.1145/3563835.3567664), and the presentation is available on [YouTube](https://www.youtube.com/watch?v=LyLNjtENti4).
+Our work was accepted into Onward!'22 / Splash'22, and we got the chance to travel to Auckland, New Zealand, to present it ([see our trip blog post](/blog/onward-splash-22)). The paper is now freely available on [ACM DL](https://doi.org/10.1145/3563835.3567664), and the presentation is available on [YouTube](https://www.youtube.com/watch?v=LyLNjtENti4).
 
 <div class="row">
 <div align="center" style="float: left">
