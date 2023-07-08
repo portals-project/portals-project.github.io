@@ -20,17 +20,18 @@ h2 {
 
 h3 {
   font-size: 1.25rem;
+  margin-bottom: 0px;
 }
 
 h4,
 h5,
 h6 {
+  margin-bottom: 0px;
   font-size: 1.0rem;
 }
 
 h1,
 h2,
-h3,
 nav {
   font-family: open sans;
   letter-spacing: 0.10rem;
@@ -132,5 +133,9 @@ span.portals {
 }
 
 div.highlight {
-  line-height: 1.0rem;
+  line-height: 1.2rem;
+}
+
+code.hljs {
+  background: white;
 }
