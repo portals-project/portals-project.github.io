@@ -587,5 +587,5 @@ A Portals System is the runtime for executing Portals Applications. There exists
 This concludes the tutorial. The presented tutorial did not touch on many important concepts for building Portals applications. Importantly, this tutorial has left out many of the details for building larger applications. This will be covered in future tutorials. Here are our suggestions for what to look at next:
 
 * For the eager reader we recommend looking at the [portals-examples](https://github.com/portals-project/portals/tree/main/portals-examples/src/main/scala/portals/examples) in the GitHub repository, which show the current best practices for building Portals applications. The Shopping Cart example is a good starting point.
-* The [Portals API](https://portals-project.org/portals-api/) documentation provides a detailed description of the API.
+* The [Portals API](https://portals-project.org/api/) documentation provides a detailed description of the API.
 * The [blog posts](https://portals-project.org/blog/) provide more in-depth reviews of examples.
