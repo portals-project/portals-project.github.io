@@ -41,6 +41,14 @@ Find out more about what *Portals* is and how everything fits together with our 
 * 4 April 2023 - See you at Scala Days Madrid 2023! We will present our work on **[Crossing the Boundaries of Stateful Streaming and Actors Using Serverless Portals](https://scaladays.org/madrid-2023/crossing-the-boundaries-of-stateful-streaming-and-actors-using-serverless-portals)** at the **[Scala Days](https://scaladays.org/)** conference in Madrid, Spain, this September.
 * 2 December 2022 - We presented our paper "Portals: An Extension of Dataflow Streaming for Stateful Serverless" at **[Onward! 2022](https://2022.splashcon.org/track/splash-2022-Onward-papers)** in Auckland, New Zealand. The paper is available on **[ACM DL](https://dl.acm.org/doi/abs/10.1145/3563835.3567664)**, and the presentation is now live on **[YouTube](https://www.youtube.com/watch?v=LyLNjtENti4)**. We also posted a blog post about the trip **[here](/blog/onward-splash-22)**.
 
+### Support and Contact
+
+For help or questions, contact the Portals developers and community on the [Portals Google Groups](https://groups.google.com/g/portals-project) mailing list.
+
+If you find a bug in Portals, then [open an issue](https://github.com/portals-project/portals/issues).
+
+For other private questions, please refer to the contact information of the [core team](https://www.portals-project.org/team).
+
 ### Cite Our Work
 
 If you want to cite our work, please consider citing the following publication:
