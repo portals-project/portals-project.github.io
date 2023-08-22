@@ -22,6 +22,7 @@ Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22
 * Jonas Spenger. "Pods: Privacy compliant scalable decentralized data services." *VLDB Workshop: Poly'21*, 2021. [Slides](https://drive.google.com/file/d/1-ZUn_sc9_Yny2xcnz4VZtLI_z75tA0El/view?usp=sharing)
 
 ## Posters
+* Jonas Spenger, Aleksey Veresov, Maximilian Kurzawski, Paris Carbone, Philipp Haller. "The Portals Framework: Enabling Flexible Stateful Serverless Applications." *CASTOR Software Days*, 2023. [Poster](https://drive.google.com/file/d/1z12-aiMwOMg4IzyO04I-sCVDkBceOEVt/view?usp=sharing)
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: Stateful Serverless Dataflow Streaming." *CASTOR Software Days*, 2022. [Poster](https://drive.google.com/file/d/13EiCixn75EsCtlKuKN8gGHXAprzuvXeX/view?usp=sharing)
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Privacy-Preserving Computing." *RISE Computer Science & AI open house*, 2022. [Poster](https://drive.google.com/file/d/1SRnO4vtdumzB2DeQWQ9JAlzFNKAmqUT1/view?usp=sharing)
 
