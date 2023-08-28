@@ -13,6 +13,8 @@ Find out more about what *Portals* is and how everything fits together on the [L
 
 ### News
 
+* 29 August 2023 - Come talk to us at the VLDB Demonstrations track in group Demo A.
+* 28 August 2023 - The Portals repo is now public and available at **[https://github.com/portals-project/portals](https://github.com/portals-project/portals)**.
 * 4 July 2023 - We are planning to release a first version of *Portals* on **[21 August 2023](https://github.com/portals-project)**. Stay tuned!
 * 3 July 2023 - The **[Playground](https://www.portals-project.org/playground/)** is now live! Check out our JavaScript API with some examples in your browser.
 * 5 June 2023 - Our demonstration paper "Portals: A Showcase of Multi-Dataflow Stateful Serverless" was accepted at **[VLDB 2023](https://vldb.org/2023)** in Vancouver, Canada, this August/September.
