@@ -16,6 +16,8 @@ Thank you for your interest in our work. Here you can find a collection of our t
 * Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
 
 ## Talks
+* Jonas Spenger. "Crossing the Boundaries of Stateful Streaming and Actors Using Serverless Portals." *Scala Days - Madrid 2023*, 2023. [Slides](https://drive.google.com/file/d/10gIO7ZAS_K3bU5eMBOAEBCTQLKyeHkTh/view?usp=sharing)
+* Jonas Spenger. "Portals: A Showcase of Multi-Dataflow Stateful Serverless." *VLDB 2023 Demonstrations Track*, 2023.
 * Jonas Spenger. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *Splash '22: Onward! ’22*, 2022. [Video](https://www.youtube.com/watch?v=LyLNjtENti4)
 * Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. [Video](https://www.youtube.com/watch?v=bzpQpm61o2c)
 * Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless); [Video](https://www.youtube.com/watch?v=M5Wv6Y8N2wM)
