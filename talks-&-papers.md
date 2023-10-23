@@ -8,26 +8,31 @@ title: Talks & Papers
 Thank you for your interest in our work. Here you can find a collection of our talks and papers.
 
 ## Publications
-* Jonas Spenger, Chengyang Huang, Philipp Haller, and Paris Carbone. Portals: A Showcase of Multi-Dataflow Stateful Serverless. PVLDB, 16(12): 4054 - 4057, 2023. [https://doi.org/10.14778/3611540.3611619](https://doi.org/10.14778/3611540.3611619); **[PDF](https://www.vldb.org/pvldb/vol16/p4054-spenger.pdf)**
-* Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *In Proceedings of the 2022 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22)*, 2022. [https://doi.org/10.1145/3563835.3567664](https://doi.org/10.1145/3563835.3567664); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger2022portals.pdf)**
-* Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); **[PDF](https://people.kth.se/~phaller/doc/spenger21-poly.pdf)**
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "A Survey of Actor-Like Programming Models for Serverless Computing." *To appear in Active Object Languages: Current Research Trends (AOL'23). Springer LNCS Vol. 14360*, 2023. **[PDF](https://people.kth.se/~jspenger/pdfs/spenger23aol.pdf)**
+* Jonas Spenger, Chengyang Huang, Philipp Haller, and Paris Carbone. "Portals: A Showcase of Multi-Dataflow Stateful Serverless." *PVLDB, 16(12): 4054 - 4057*, 2023. [https://doi.org/10.14778/3611540.3611619](https://doi.org/10.14778/3611540.3611619); **[PDF](https://www.vldb.org/pvldb/vol16/p4054-spenger.pdf)**
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *In Proceedings of the 2022 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! ’22)*, 2022. [https://doi.org/10.1145/3563835.3567664](https://doi.org/10.1145/3563835.3567664); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger22onward.pdf)**
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger21poly.pdf)**
 
 ## MSc Theses
 * Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
 
 ## Talks
-* Jonas Spenger. "Crossing the Boundaries of Stateful Streaming and Actors Using Serverless Portals." *Scala Days - Madrid 2023*, 2023. [Slides](https://drive.google.com/file/d/10gIO7ZAS_K3bU5eMBOAEBCTQLKyeHkTh/view?usp=sharing)
-* Jonas Spenger. "Portals: A Showcase of Multi-Dataflow Stateful Serverless." *VLDB 2023 Demonstrations Track*, 2023.
-* Jonas Spenger. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *Splash '22: Onward! ’22*, 2022. [Video](https://www.youtube.com/watch?v=LyLNjtENti4)
-* Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. [Video](https://www.youtube.com/watch?v=bzpQpm61o2c)
-* Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless); [Video](https://www.youtube.com/watch?v=M5Wv6Y8N2wM)
-* Jonas Spenger. "Pods: Privacy compliant scalable decentralized data services." *VLDB Workshop: Poly'21*, 2021. [Slides](https://drive.google.com/file/d/1-ZUn_sc9_Yny2xcnz4VZtLI_z75tA0El/view?usp=sharing)
+* Philipp Haller. "Portals: Teleporting Smart Edge Services to a Serverless Future" *Digitalize in Stockholm 2023*, 2023. **[Slides](https://speakerdeck.com/phaller/portals-teleporting-smart-edge-services-to-a-serverless-future)**
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "A Survey of Actor-Like Programming Models for Serverless Computing." *5th International ABS Workshop*, 2023. [Link](https://edkamb.github.io/ABS_23/); **[Slides](https://people.kth.se/~jspenger/slides/spenger23abs-slides.pdf)**
+* Jonas Spenger. "Crossing the Boundaries of Stateful Streaming and Actors Using Serverless Portals." *Scala Days - Madrid 2023*, 2023. [Slides](https://people.kth.se/~jspenger/slides/spenger23scaladays-slides.pdf); **[Video](https://www.youtube.com/watch?v=Ctpif-uk7sw)**
+* Jonas Spenger. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *Splash '22: Onward! ’22*, 2022. [Slides](https://people.kth.se/~jspenger/slides/spenger22onward-slides.pdf); **[Video](https://www.youtube.com/watch?v=LyLNjtENti4)**
+* Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. **[Video](https://www.youtube.com/watch?v=bzpQpm61o2c)**
+* Philipp Haller. "Extending Dataflow Streaming for Stateful Serverless." *CASTOR Software Days*, 2022. [Slides](https://speakerdeck.com/phaller/extending-dataflow-streaming-for-stateful-serverless); **[Video](https://www.youtube.com/watch?v=M5Wv6Y8N2wM)**
+* Jonas Spenger. "Pods: Privacy compliant scalable decentralized data services." *VLDB Workshop: Poly'21*, 2021. **[Slides](https://people.kth.se/~jspenger/slides/spenger21poly-slides.pdf)**
 
+## Demonstrations
+* Jonas Spenger. "Portals: A Showcase of Multi-Dataflow Stateful Serverless." *VLDB 2023 Demonstrations Track*, 2023. **[Poster](https://people.kth.se/~jspenger/posters/spenger23vldb-poster.pdf)**
+  
 ## Posters
-* Jonas Spenger, Chengyang Huang, Philipp Haller, and Paris Carbone. "Portals: A Showcase of Multi-Dataflow Stateful Serverless." *VLDB 2023 Demonstrations Track*, 2023. [Poster](https://drive.google.com/file/d/1MOK6HZLeFDRibjAKqNXIzWvWBJZBbgTA/view?usp=sharing)
-* Jonas Spenger, Aleksey Veresov, Maximilian Kurzawski, Paris Carbone, and Philipp Haller. "The Portals Framework: Enabling Flexible Stateful Serverless Applications." *CASTOR Software Days*, 2023. [Poster](https://drive.google.com/file/d/1z12-aiMwOMg4IzyO04I-sCVDkBceOEVt/view?usp=sharing)
-* Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: Stateful Serverless Dataflow Streaming." *CASTOR Software Days*, 2022. [Poster](https://drive.google.com/file/d/13EiCixn75EsCtlKuKN8gGHXAprzuvXeX/view?usp=sharing)
-* Jonas Spenger, Paris Carbone, and Philipp Haller. "Privacy-Preserving Computing." *RISE Computer Science & AI open house*, 2022. [Poster](https://drive.google.com/file/d/1SRnO4vtdumzB2DeQWQ9JAlzFNKAmqUT1/view?usp=sharing)
+* Jonas Spenger, Chengyang Huang, Philipp Haller, and Paris Carbone. "Portals: A Showcase of Multi-Dataflow Stateful Serverless." *RISE Computer Science & AI open house*, 2023. **[Poster](https://people.kth.se/~jspenger/posters/spenger23vldb-poster.pdf)**
+* Jonas Spenger, Aleksey Veresov, Maximilian Kurzawski, Paris Carbone, and Philipp Haller. "The Portals Framework: Enabling Flexible Stateful Serverless Applications." *CASTOR Software Days*, 2023. **[Poster](https://people.kth.se/~jspenger/posters/spenger23castor-poster.pdf)**
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Portals: Stateful Serverless Dataflow Streaming." *CASTOR Software Days*, 2022. **[Poster](https://people.kth.se/~jspenger/posters/spenger22castor-poster.pdf)**
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Privacy-Preserving Computing." *RISE Computer Science & AI open house*, 2022. **[Poster](https://people.kth.se/~jspenger/posters/spenger22rise-poster.pdf)**
 
 ## Cite Our Work
 
