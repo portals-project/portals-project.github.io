@@ -13,7 +13,7 @@ Find out more about what *Portals* is and how everything fits together on the [L
 
 ### News
 * 23 October 2023 - We are still active! We are currently working on a distributed runtime for Portals in a private repository, this will be integrate into the main repo by Q1 2024.
-* 5 October 2023 - We presented our upcoming survey on *"Actor-Like Programming Models for Serverless Computing"* at the [ABS Workshop 2023](ABS Workshop 2023), check out the [Slides](https://people.kth.se/~jspenger/slides/spenger23abs-slides.pdf) and the [Pre-Print](https://people.kth.se/~jspenger/pdfs/spenger23aol.pdf).
+* 5 October 2023 - We presented our upcoming survey on *"Actor-Like Programming Models for Serverless Computing"* at the [ABS Workshop 2023](https://edkamb.github.io/ABS_23/), check out the [Slides](https://people.kth.se/~jspenger/slides/spenger23abs-slides.pdf) and the [Pre-Print](https://people.kth.se/~jspenger/pdfs/spenger23aol.pdf).
 * 14 Sep 2023 - We presented Portals at [Scala Days Madrid](https://scaladays.org/madrid-2023/crossing-the-boundaries-of-stateful-streaming-and-actors-using-serverless-portals), and the video is now available on **[YouTube](https://youtu.be/Ctpif-uk7sw)**.
 * 28 August 2023 - The Portals repo is now public and available at **[https://github.com/portals-project/portals](https://github.com/portals-project/portals)**.
 * 3 July 2023 - The **[Playground](https://www.portals-project.org/playground/)** is now live! Check out our JavaScript API with some examples in your browser.
