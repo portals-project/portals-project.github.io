@@ -17,8 +17,9 @@ Thank you for your interest in our work. Here you can find a collection of our t
 * Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
 
 ## Talks
-* Philipp Haller. "Portals: Teleporting Smart Edge Services to a Serverless Future" *Digitalize in Stockholm 2023*, 2023. **[Slides](https://speakerdeck.com/phaller/portals-teleporting-smart-edge-services-to-a-serverless-future)**
-* Jonas Spenger, Paris Carbone, and Philipp Haller. "A Survey of Actor-Like Programming Models for Serverless Computing." *5th International ABS Workshop*, 2023. [Link](https://edkamb.github.io/ABS_23/); **[Slides](https://people.kth.se/~jspenger/slides/spenger23abs-slides.pdf)**
+* Philipp Haller (Keynote). "How to Make Distributed Programming Safer using Types" *34th Nordic Workshop on Programming Theory (NWPT 2023)*, 2023. **[Slides](https://speakerdeck.com/phaller/how-to-make-distributed-programming-safer-using-types)**
+* Philipp Haller. "Portals: Teleporting Smart Edge Services to a Serverless Future." *Digitalize in Stockholm 2023*, 2023. **[Slides](https://speakerdeck.com/phaller/portals-teleporting-smart-edge-services-to-a-serverless-future)**
+* Jonas Spenger. "A Survey of Actor-Like Programming Models for Serverless Computing." *5th International ABS Workshop*, 2023. [Link](https://edkamb.github.io/ABS_23/); **[Slides](https://people.kth.se/~jspenger/slides/spenger23abs-slides.pdf)**
 * Jonas Spenger. "Crossing the Boundaries of Stateful Streaming and Actors Using Serverless Portals." *Scala Days - Madrid 2023*, 2023. [Slides](https://people.kth.se/~jspenger/slides/spenger23scaladays-slides.pdf); **[Video](https://www.youtube.com/watch?v=Ctpif-uk7sw)**
 * Jonas Spenger. "Portals: An Extension of Dataflow Streaming for Stateful Serverless." *Splash '22: Onward! ’22*, 2022. [Slides](https://people.kth.se/~jspenger/slides/spenger22onward-slides.pdf); **[Video](https://www.youtube.com/watch?v=LyLNjtENti4)**
 * Paris Carbone, and Philipp Haller. "Resilient Decentralised Computing: Enabling Trust and Simplicity in Smart Edge Services." *Digitalize in Stockholm 2022*, 2022. **[Video](https://www.youtube.com/watch?v=bzpQpm61o2c)**
