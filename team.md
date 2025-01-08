@@ -16,6 +16,8 @@ Portals is a research project at the [KTH Royal Institute of Technology](https:/
   Associate Professor, EECS, KTH Royal Institute of Technology.
 
 ## MSc Students
+* Ruben Van Gemeren, MSc Thesis 2025, EECS, KTH Royal Institute of Technology.
+* Kolya Krafeld, MSc Thesis 2025, EECS, KTH Royal Institute of Technology.
 
 ## Alumni
 * Aleksey Veresov, MSc Thesis 2024; Research Student Assistant 2023-2024; Summer Research Internship 2023 (Digital Futures); MSc Student, EECS, KTH Royal Institute of Technology.
