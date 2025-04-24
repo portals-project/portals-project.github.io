@@ -16,6 +16,7 @@ Thank you for your interest in our work. Here you can find a collection of our t
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); [SharedIt](https://rdcu.be/dxwj0); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger21poly.pdf)**
 
 ## MSc Theses
+* Aleksey Veresov. "Abstracting Failures Away From Stateful Dataflow Systems." *Dissertation*, 2024.
 * Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
 
 ## Talks
