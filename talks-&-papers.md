@@ -8,6 +8,7 @@ title: Talks & Papers
 Thank you for your interest in our work. Here you can find a collection of our talks and papers.
 
 ## Publications
+* Jonas Spenger, Paris Carbone, and Philipp Haller. "Failure-Transparent Actors." *In Concurrent Programming, Open Systems and Formal Methods: Essays Dedicated to Prof. Gul Agha to Celebrate his Scientific Career.* Lecture Notes in Computer Science, 16120, 1–33. 2026. [https://doi.org/10.1007/978-3-032-05291-9_4](https://doi.org/10.1007/978-3-032-05291-9_4); [SharedIt](https://rdcu.be/eJmNu)
 * Aleksey Veresov, Jonas Spenger, Paris Carbone, and Philipp Haller. "Failure Transparency in Stateful Dataflow Systems." *In 38th European Conference on Object-Oriented Programming (ECOOP 2024).* Leibniz International Proceedings in Informatics (LIPIcs), Volume 313, pp. 42:1-42:31, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2024). [https://doi.org/10.4230/LIPIcs.ECOOP.2024.42](https://doi.org/10.4230/LIPIcs.ECOOP.2024.42)
 * Aleksey Veresov, Jonas Spenger, Paris Carbone, and Philipp Haller. "Failure Transparency in Stateful Dataflow Systems (Technical Report)." *arXiv preprint arXiv:2407.06738 (2024).* [https://arxiv.org/abs/2407.06738](https://arxiv.org/abs/2407.06738); **[PDF](https://arxiv.org/pdf/2407.06738)**
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "A Survey of Actor-Like Programming Models for Serverless Computing." *In Active Object Languages: Current Research Trends*, pp. 123-146. Lecture Notes in Computer Science, vol 14360. Springer, Cham. [https://doi.org/10.1007/978-3-031-51060-1_5](https://doi.org/10.1007/978-3-031-51060-1_5); [SharedIt](https://rdcu.be/dxwia); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger23aol.pdf)**
@@ -16,8 +17,10 @@ Thank you for your interest in our work. Here you can find a collection of our t
 * Jonas Spenger, Paris Carbone, and Philipp Haller. "Wip: Pods: Privacy compliant scalable decentralized data services." *In Heterogeneous Data Management, Polystores, and Analytics for Healthcare*, pp. 70-82. Springer, Cham, 2021. [https://doi.org/10.1007/978-3-030-93663-1_7](https://doi.org/10.1007/978-3-030-93663-1_7); [SharedIt](https://rdcu.be/dxwj0); **[PDF](https://people.kth.se/~jspenger/pdfs/spenger21poly.pdf)**
 
 ## MSc Theses
-* Aleksey Veresov. "Abstracting Failures Away From Stateful Dataflow Systems." *Dissertation*, 2024.
-* Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
+* Ruben van Gemeren. "Windowed CRDTs for Decentralized Aggregation in Distributed Stream Processing." *MSc Dissertation*, 2025. [https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-368536](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-368536)
+* Kolya Krafeld. "Decentralized Failure Recovery in Distributed Stream Processing Systems using CRDTs." *MSc Dissertation*, 2025. [https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-368040](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-368040)
+* Aleksey Veresov. "Abstracting Failures Away From Stateful Dataflow Systems." *MSc Dissertation*, 2024. [https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-363595](https://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-363595)
+* Chengyang Huang. "Queryable Workflows: Extending Dataflow Streaming with Dynamic Request/Reply Communication." *MSc Dissertation*, 2023. [https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329594)
 
 ## Talks
 * Philipp Haller (Keynote). "How to Make Distributed Programming Safer using Types" *34th Nordic Workshop on Programming Theory (NWPT 2023)*, 2023. **[Slides](https://speakerdeck.com/phaller/how-to-make-distributed-programming-safer-using-types)**
